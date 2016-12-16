@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing
-your Jekyll theme, as well as basic Jekyll usage documentation at 
-[jekyllrb.com](http://jekyllrb.com/)
+Piper is a NYC based platform developer. She worked on the Topps trading card
+projects including
+*[Star Wars Card Trader](http://www.starwars.com/games-apps/star-wars-card-trader)*
+while at [Dog on a Horse](http://www.dogonahorse.com/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of the day job she's a small business consultant, helping business
+owners identify the best way to spend their technical budgets. She also spends
+time teaching people how to use Python as a member of the
+[NYC Python Meetup Group](https://www.meetup.com/nycpython/) and
+[Learn Python NYC](https://www.meetup.com/learn-python-nyc/) where she likes
+demonstrating that even bad video games can teach you a lot about computer
+science.

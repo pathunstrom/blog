@@ -17,7 +17,7 @@ title: Piper Thunstrom's Blog
 email: pathunstrom@gmail.com
 description: Piper Thunstrom's space for babbling about tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.pathunstrom.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pathunstrom
 github_username:  pathunstrom
 
@@ -29,3 +29,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+timezone: America/New_York
